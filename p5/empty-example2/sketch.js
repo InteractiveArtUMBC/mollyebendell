@@ -6,7 +6,7 @@ function setup() {
 	background(200);
 }
 
-
+//nice use of mouse movement- I think this could be useful in other ways too. 
 function draw() {
 	// put drawing code here
 	fill(200);
